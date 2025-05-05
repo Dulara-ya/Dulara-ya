@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dulara Sandamal</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F718&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Dulara+Sandamal;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🚀+Innovation+Developer;🇱🇰+From+Sri+Lanka;☕+Turning+Ideas+Into+Code+Since+2018" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F718&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Dulara+Sandamal;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🚀+Innovation+Developer;🇱🇰+From+Sri+Lanka;☕+Turning+Ideas+Into+Code;🧑‍🎓+IT+Student" alt="Typing SVG" />
   </a>
 </h1>
 
