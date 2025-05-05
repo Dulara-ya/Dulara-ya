@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/matrix.gif" width="100%"/>
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Dulara+Sandamal;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🚀+Innovation+Developer;🇱🇰+From+Sri+Lanka;☕+Turning+Ideas+Into+Code;🧑‍🎓+IT+Student" alt="Typing SVG" />
