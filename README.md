@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/46750877/152845925-5de74ac6-6d7d-47b1-8362-9726f314a0ee.gif)](https://rishavchanda.io)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Dulara+Sandamal;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🚀+Innovation+Developer;🇱🇰+From+Sri+Lanka;☕+Turning+Ideas+Into+Code;🧑‍🎓+IT+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=1BFC06&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Dulara+Sandamal;💻+Full+Stack+Developer;🤖+AI+Enthusiast;🚀+Innovation+Developer;🇱🇰+From+Sri+Lanka;☕+Turning+Ideas+Into+Code;🧑‍🎓+IT+Student" alt="Typing SVG" />
   </a>
 </h1>
 </h1>
