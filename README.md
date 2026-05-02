@@ -1,289 +1,265 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:001a6e&height=220&section=header&text=Dulara%20Sandamal&fontSize=65&fontColor=00d4ff&fontAlignY=38&desc=%3E_%20Initializing%20Developer%20Profile...&descAlignY=60&descSize=20&animation=twinkling&fontAlign=50" />
+<!-- Animated Matrix/Cyber Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,40:0d1b2a,70:1a2744,100:0a0a0f&height=250&section=header&text=DULARA%20SANDAMAL&fontSize=65&fontColor=00d4ff&fontAlignY=45&desc=◈%20Full%20Stack%20Developer%20◈%20AI%20Enthusiast%20◈%20Innovation%20Builder%20◈&descAlignY=68&descSize=16&animation=blinking&stroke=00d4ff&strokeWidth=2" />
 
 </div>
 
-```bash
-$ whoami
-> dulara-sandamal
-$ cat /etc/profile.d/developer.conf
-```
-
-```yaml
-# ======================================
-# DEVELOPER PROFILE :: dulara-sandamal
-# ======================================
-
-name:         "Dulara Sandamal"
-version:      "v2.0.26"
-build_status: "✅ PASSING"
-location:     "Sri Lanka 🇱🇰"
-uptime:       "24/7 — always building"
-
-roles:
-  - Full Stack Developer
-  - AI Enthusiast
-  - Mobile Engineer
-  - Innovation Builder
-
-current_process:
-  pid: 1337
-  task: "Building next-gen AI-powered apps"
-  status: "RUNNING"
-
-learning_queue:
-  - Artificial Intelligence
-  - Machine Learning
-  - Large Language Models
-
-kernel: "Curiosity OS"
-shell:  "zsh + oh-my-zsh"
-editor: "VS Code (with 47 extensions)"
-fuel:   "☕ Coffee + 🎧 Lo-fi beats"
-motto:  "Life is Bugs — and I love fixing them 🐛"
-```
-
-```bash
-$ ping dulara-sandamal
-> PONG — dularasandamal2@gmail.com  [latency: instant]
-```
-
----
-
+<!-- Glitch-style typing animation -->
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=console.log(%22Hello%2C+World!+%F0%9F%8C%8D%22);git+commit+-m+%22turning+ideas+into+reality%22;while(true)+%7B+code();+sleep(2);+%7D;npm+install+%40dulara%2Fexperience;docker+build+-t+innovation+.;AI.train(passion%2C+dedication);printf(%22Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+Dev+Online%5Cn%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=600&color=00FFD1&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+Loading+skills%3A+%5BFULL+STACK+%7C+AI+%7C+MOBILE%5D+✓;%3E+Location%3A+Sri+Lanka+🇱🇰+%7C+Status%3A+BUILDING;%3E+Mission%3A+Turn+ideas+into+real+products+🚀;%3E+Fuelled+by+coffee+%26+clean+code+☕;%3E+Life+is+Bugs+🐛+—+and+I+love+fixing+them" alt="Typing SVG" />
 </a>
+
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dulara-ya&style=flat-square&color=00d4ff&labelColor=0d1117&label=PROFILE+VISITS" />
+<div align="center">
+
+<!-- Animated counters row -->
+<img src="https://komarev.com/ghpvc/?username=dulara-ya&style=for-the-badge&color=00d4ff&labelColor=0a0a0f&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/dulara-ya?tab=followers">
-  <img src="https://img.shields.io/github/followers/dulara-ya?style=flat-square&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/dulara-ya?style=for-the-badge&color=00ffd1&labelColor=0a0a0f&label=FOLLOWERS" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-ff6b6b?style=for-the-badge&labelColor=0a0a0f" />
+&nbsp;
+<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00d4ff?style=for-the-badge&labelColor=0a0a0f&logo=netlify&logoColor=00d4ff" />
 
 </div>
 
 ---
 
-## `> ./about_me.sh`
+<table>
+<tr>
+<td width="55%">
 
-<img align="right" width="360" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+## `$ whoami`
 
-```javascript
-class DularaSandamal extends Developer {
-
-  constructor() {
-    super();
-    this.name      = "Dulara Sandamal";
-    this.location  = "Sri Lanka 🇱🇰";
-    this.available = true;
-  }
-
-  getCurrentWork() {
-    return [
-      "🔭 Building personal & open-source projects",
-      "🤖 Learning AI & Machine Learning",
-      "🚀 Crafting full-stack solutions",
-    ];
-  }
-
-  getInterests() {
-    return ["AI", "Web Dev", "Mobile", "Cloud"];
-  }
-
-  collaborate() {
-    return "Let's build something amazing! 🤝";
-  }
-
-  contact() {
-    return "dularasandamal2@gmail.com 📫";
-  }
-
-  funFact() {
-    return "Life is Bugs 🐛 — I just fix them faster";
-  }
+```ts
+{
+  name:      "Dulara Sandamal",
+  alias:     "dulara-ya",
+  location:  "Sri Lanka 🇱🇰",
+  portfolio: "dulara-sandamal.netlify.app",
+  role:      "Full Stack Developer",
+  learning:  ["AI", "ML", "LLMs"],
+  status:    "Building something awesome...",
+  contact:   "dularasandamal2@gmail.com",
+  funFact:   "Life is Bugs 🐛",
 }
-
-export default new DularaSandamal();
 ```
+
+> *"The best way to predict the future is to build it."*
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="320" alt="coding" style="border-radius:12px;"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat about.txt`
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulara-ya&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=c0c8d8&icon_color=00ffd1&langs_count=8" width="260"/>
+
+- 🔭 &nbsp; Currently working on **personal & open-source projects**
+- 🌱 &nbsp; Diving deep into **Artificial Intelligence & Machine Learning**
+- 🤝 &nbsp; Open to collaborating on **impactful tech products**
+- 💡 &nbsp; Passionate about **turning ideas into working software**
+- 🏗️ &nbsp; Software Architect + UI/UX thinker
+- ☕ &nbsp; Fuelled by coffee and clean code
+- 🌐 &nbsp; Portfolio → **[dulara-sandamal.netlify.app](https://dulara-sandamal.netlify.app)**
+- 📫 &nbsp; Email → **dularasandamal2@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## `> cat connections.json`
+## `$ netstat --social`
 
 <div align="center">
 
-```json
-{
-  "social_links": {
-    "twitter"  : "https://x.com/dulara_sandamal",
-    "linkedin" : "https://linkedin.com/in/dulara-sandamal-1a1687184",
-    "youtube"  : "https://youtube.com/@dulara_ya",
-    "instagram": "https://instagram.com/dulara_ya",
-    "facebook" : "https://facebook.com/share/16r5y4hjlk",
-    "discord"  : "https://discord.gg/dulara0082",
-    "overflow" : "https://stackoverflow.com/users/39636443"
-  }
-}
-```
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dulara--sandamal.netlify.app-00d4ff?style=for-the-badge&labelColor=0a0a0f)](https://dulara-sandamal.netlify.app)
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=00d4ff)](https://x.com/dulara_sandamal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/dulara-sandamal-1a1687184)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/39636443/dulara-sandamal)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/share/16r5y4hjlk/)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/dulara_ya)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@dulara_ya)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/dulara0082)
+[![X/Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/dulara_sandamal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulara-sandamal-1a1687184)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/39636443/dulara-sandamal)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dulara0082)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/16r5y4hjlk/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dulara_ya)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dulara_ya)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@dulara_ya)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/KNNOIX4FEQKZD1)
 
 </div>
 
 ---
 
-## `> ls -la /tech-stack/`
+## `$ ls -la tech-stack/`
 
-```
-drwxr-xr-x  dulara  staff   frontend/
-drwxr-xr-x  dulara  staff   mobile/
-drwxr-xr-x  dulara  staff   backend-languages/
-drwxr-xr-x  dulara  staff   databases/
-drwxr-xr-x  dulara  staff   cloud-devops/
-drwxr-xr-x  dulara  staff   design-tools/
-```
-
-<details>
-<summary><b>📂 frontend/ &nbsp;—&nbsp; click to expand</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
-
-</details>
-
-<details>
-<summary><b>📂 mobile/</b></summary>
-<br>
-
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84)
-
-</details>
-
-<details>
-<summary><b>📂 backend-languages/</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=239120)
-
-</details>
-
-<details>
-<summary><b>📂 databases/</b></summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=C0765A)
-![MSSQL](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=07405e)
-
-</details>
-
-<details>
-<summary><b>📂 cloud-devops/</b></summary>
-<br>
-
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-</details>
-
-<details>
-<summary><b>📂 design-tools/</b></summary>
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=ffffff)
-
-</details>
-
----
-
-## `> git log --oneline --stat`
-
-```
-🔥 Analyzing dulara-ya's commit history...
-```
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=dulara-ya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulara-ya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
-
+<details open>
+<summary><b>🌐 Frontend</b></summary>
 <br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=dulara-ya&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117" />
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+</details>
+
+<details>
+<summary><b>📱 Mobile</b></summary>
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Languages</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MsSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<br/>
+
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+</details>
 
 ---
 
-## `> sudo trophy --display --all`
+## `$ curl featured-projects`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dulara-ya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+| 🏥 Project | 📝 Description | 🔗 Links |
+|:---|:---|:---:|
+| **Care Compass Hospitals** | PHP-based hospital management system — dual admin/patient portal | [GitHub](https://github.com/Dulara-ya/Care-Compass-Hospitals-Management-System) |
+| **Cozy Comfort Supply Chain** | Flask supply chain with role-based dashboards (Manufacturer/Distributor/Seller) | [GitHub](https://github.com/Dulara-ya/cozy_comfort_api) |
+| **Moon Hotel Management** | C++ console hotel reservation simulation system | [GitHub](https://github.com/Dulara-ya/Moon-Hottel-Reservation-System-C-) |
+| **Interactive Birthday Portal** | Animated, mobile-optimized personalized birthday website | [GitHub](https://github.com/Dulara-ya/Birthday-Wish-Web-site-) |
+| **Video Rental Shop SQL** | Full relational database schema for rental shop simulation | [GitHub](https://github.com/Dulara-ya/Video-Rental-Shop.sql) |
 
 </div>
 
 ---
 
-## `> tail -f /var/log/activity.log`
+## `$ git log --stats`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dulara-ya&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00ff88&area_color=001a6e&area=true&hide_border=true&custom_title=dulara-ya%20::%20commit%20activity)](https://github.com/dulara-ya)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=dulara-ya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=c0c8d8&icon_color=00ffd1&ring_color=00d4ff" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulara-ya&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=c0c8d8&icon_color=00ffd1" />
+
+</div>
+
+<div align="center">
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=dulara-ya&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=00d4ff&fire=00ffd1&currStreakLabel=00ffd1&sideNums=00d4ff&dates=6a7280&sideLabels=c0c8d8" />
 
 </div>
 
 ---
+
+## `$ cat /proc/achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dulara-ya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=00d4ff" />
+
+</div>
+
+---
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+[![Dulara's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dulara-ya&bg_color=0a0a0f&color=00ffd1&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=Dulara's%20Commit%20Activity)](https://github.com/dulara-ya)
+
+</div>
+
+---
+
+## `$ ping dulara-sandamal.netlify.app`
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   process.exit() called — but the code lives on 🚀       ║
-║                                                          ║
-║   > Thanks for visiting my profile!                      ║
-║   > Star ⭐ something. Fork 🍴 something.                 ║
-║   > Let's build the future together.                     ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+PING dulara-sandamal.netlify.app
+64 bytes: icmp_seq=0 ttl=64 time=0.42ms  ← Portfolio is LIVE ✅
+64 bytes: icmp_seq=1 ttl=64 time=0.38ms  ← Always building   🚀
+64 bytes: icmp_seq=2 ttl=64 time=0.35ms  ← Open to work      🤝
+64 bytes: icmp_seq=3 ttl=64 time=0.31ms  ← Coffee level: ☕☕☕
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a6e,50:0d1b4b,100:000000&height=130&section=footer&animation=twinkling" />
+[![🌐 Visit Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-dulara--sandamal.netlify.app-00d4ff?style=for-the-badge&labelColor=0a0a0f)](https://dulara-sandamal.netlify.app)
+&nbsp;
+[![📧 Email Me](https://img.shields.io/badge/📧_Email_Me-dularasandamal2%40gmail.com-ff6b6b?style=for-the-badge&labelColor=0a0a0f)](mailto:dularasandamal2@gmail.com)
+&nbsp;
+[![💬 WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&labelColor=0a0a0f&logo=whatsapp&logoColor=25D366)](https://wa.me/qr/KNNOIX4FEQKZD1)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,40:0d1b2a,70:1a2744,100:0a0a0f&height=130&section=footer&text=Let's+Build+the+Future+Together+🚀&fontSize=28&fontColor=00d4ff&animation=blinking&fontAlignY=55" />
+
+<!-- Snake animation (requires GitHub Actions setup) -->
+<!-- Uncomment after adding the snake workflow:
+<img src="https://github.com/dulara-ya/dulara-ya/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+-->
 
 </div>
