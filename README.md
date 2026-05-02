@@ -177,19 +177,9 @@
 
 ---
 
-## `$ curl featured-projects`
-
 <div align="center">
 
-| 🏥 Project | 📝 Description | 🔗 Links |
-|:---|:---|:---:|
-| **Care Compass Hospitals** | PHP-based hospital management system — dual admin/patient portal | [GitHub](https://github.com/Dulara-ya/Care-Compass-Hospitals-Management-System) |
-| **Cozy Comfort Supply Chain** | Flask supply chain with role-based dashboards (Manufacturer/Distributor/Seller) | [GitHub](https://github.com/Dulara-ya/cozy_comfort_api) |
-| **Moon Hotel Management** | C++ console hotel reservation simulation system | [GitHub](https://github.com/Dulara-ya/Moon-Hottel-Reservation-System-C-) |
-| **Interactive Birthday Portal** | Animated, mobile-optimized personalized birthday website | [GitHub](https://github.com/Dulara-ya/Birthday-Wish-Web-site-) |
-| **Video Rental Shop SQL** | Full relational database schema for rental shop simulation | [GitHub](https://github.com/Dulara-ya/Video-Rental-Shop.sql) |
 
-</div>
 
 ---
 
@@ -215,7 +205,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dulara-ya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=00d4ff" />
+
 
 </div>
 
