@@ -2,12 +2,16 @@
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dulara%20Sandamal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=dulara-ya&style=for-the-badge&color=7c3aed&labelColor=0d0d0d" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/dulara-ya?tab=followers">
   <img src="https://img.shields.io/github/followers/dulara-ya?style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=Followers" />
 </a>
+
+<br>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://user-images.githubusercontent.com/46750877/152845925-5de74ac6-6d7d-47b1-8362-9726f314a0ee.gif" />
