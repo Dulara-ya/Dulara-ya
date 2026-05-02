@@ -42,8 +42,8 @@ const dulara = {
 - 🤝 &nbsp; Looking to collaborate on **impactful tech products**
 - 💡 &nbsp; Passionate about **turning ideas into working software**
 - ☕ &nbsp; Fuelled by coffee and clean code
-- 🌐 &nbsp; Portfolio → [dulara-sandamal.netlify.app/](dulara-sandamal.netlify.app/)
-- 📫 &nbsp; Reach me at [EMAIL_ADDRESS](dularasandamal2@gmail.com)
+- 🌐 &nbsp; Portfolio → **dulara-sandamal.netlify.app**
+- 📫 &nbsp; Reach me at **dularasandamal2@gmail.com**
 
 <br clear="right"/>
 
