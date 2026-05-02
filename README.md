@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=💻+Building+the+Future%2C+One+Commit+at+a+Time;🤖+Turning+AI+Ideas+into+Real+Products;🚀+Full+Stack+%7C+Mobile+%7C+Cloud+%7C+AI;🌍+Proudly+From+Sri+Lanka+🇱🇰" alt="Typing SVG](https://user-images.githubusercontent.com/46750877/152845925-5de74ac6-6d7d-47b1-8362-9726f314a0ee.gif)](https://rishavchanda.io))" />
+  <img src="https://user-images.githubusercontent.com/46750877/152845925-5de74ac6-6d7d-47b1-8362-9726f314a0ee.gif" />
 </a>
 
 <br/>
