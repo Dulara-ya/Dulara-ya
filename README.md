@@ -42,6 +42,7 @@ const dulara = {
 - 🤝 &nbsp; Looking to collaborate on **impactful tech products**
 - 💡 &nbsp; Passionate about **turning ideas into working software**
 - ☕ &nbsp; Fuelled by coffee and clean code
+- 🌐 &nbsp; Portfolio → **dulara-sandamal.netlify.app**
 - 📫 &nbsp; Reach me at **dularasandamal2@gmail.com**
 
 <br clear="right"/>
@@ -113,9 +114,6 @@ const dulara = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dulara-ya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulara-ya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
